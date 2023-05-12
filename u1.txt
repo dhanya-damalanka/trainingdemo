@@ -1,6 +1,0 @@
-u1
-<<<<<<< HEAD
-changes by u1
-=======
-changes in u1 by u2
->>>>>>> f82ecca (changes in u1 in u2)
